@@ -1,0 +1,1132 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/404
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\404.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/about
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\about.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/main.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://solafy-html.netlify.app/assets/images/404.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\404.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/about/about-thumb1_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\about\about-thumb1_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/about/about-thumb1_2.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\about\about-thumb1_2.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/about/about-thumb1_3.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\about\about-thumb1_3.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/about/about-thumb2_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\about\about-thumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/about/about-thumb2_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\about\about-thumb2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-details/blogdetailsthumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-details\blogdetailsthumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-details/blogdetailsthumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-details\blogdetailsthumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-details/blogdetailsthumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-details\blogdetailsthumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-details/blogdetailsthumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-details\blogdetailsthumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-details/blogdetailsthumb1_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-details\blogdetailsthumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog-standard/blog-standardThumb1_6.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog-standard\blog-standardThumb1_6.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_10.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_10.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_11.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_11.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_12.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_12.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_6.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_6.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_7.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_7.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_8.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_8.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/blog/blog1-thumb2_9.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\blog\blog1-thumb2_9.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/footer/newsletter-bg1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\footer\newsletter-bg1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/gallery/footer-gallery-thumb1_6.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\gallery\footer-gallery-thumb1_6.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/intro/intro-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\intro\intro-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/intro/introsliderThumb2_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\intro\introsliderThumb2_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/intro/introsliderThumb2_2.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\intro\introsliderThumb2_2.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/intro/introsliderThumb2_3.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\intro\introsliderThumb2_3.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/intro/introthumb2_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\intro\introthumb2_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/logo/logo-footer.svg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\logo\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://solafy-html.netlify.app/assets/images/logo/logo-home-1.svg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\logo\logo-home-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solafy-html.netlify.app/assets/images/logo/logo-home-2.svg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\logo\logo-home-2.svg
+Content Type: image/svg+xml
+
+Uri: https://solafy-html.netlify.app/assets/images/project-details/project-detailsThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project-details\project-detailsThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project-details/project-detailsThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project-details\project-detailsThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project-details/project-detailsThumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project-details\project-detailsThumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb1_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_6.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_6.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_7.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_7.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/project/project-thumb3_8.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\project\project-thumb3_8.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/service-details/servicedetailsThumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\service-details\servicedetailsThumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/service-details/servicedetailsThumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\service-details\servicedetailsThumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/service/servicementor3_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\service\servicementor3_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/service/servicethumb3_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\service\servicethumb3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/service/servicethumb3_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\service\servicethumb3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/something/somethingIcon1_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\something\somethingIcon1_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/something/somethingIcon1_2.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\something\somethingIcon1_2.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/something/somethingThumb1_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\something\somethingThumb1_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/something/somethingThumb1_2.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\something\somethingThumb1_2.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/team-details/team-detailsThumb1_1.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team-details\team-detailsThumb1_1.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_4.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_4.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_5.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/team/team-thumb1_6.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\team\team-thumb1_6.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/quote-icon.svg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\quote-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-quote.svg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-thumb2_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-thumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/testimonial/testimonial-thumb2_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\testimonial\testimonial-thumb2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/video/video-thumb2_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\video\video-thumb2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/wcu/wcu-video.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\wcu\wcu-video.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/wp/wp-shape.png
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\wp\wp-shape.png
+Content Type: image/png
+
+Uri: https://solafy-html.netlify.app/assets/images/wp/wp-thumb1_1.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\wp\wp-thumb1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/wp/wp-thumb1_2.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\wp\wp-thumb1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/images/wp/wp-thumb1_3.jpg
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\images\wp\wp-thumb1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://solafy-html.netlify.app/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://solafy-html.netlify.app/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://solafy-html.netlify.app/blog
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/blog-details
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\blog-details.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/blog-standard
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\blog-standard.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/contact
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/faq
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\faq.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/index2
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\index2.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/pricing
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\pricing.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/project
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\project.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/project-details
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\project-details.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/service-details
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\service-details.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/services
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\services.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/team
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\team.html
+Content Type: text/html
+
+Uri: https://solafy-html.netlify.app/team-details
+File Name: C:\Downloaded Web Sites\2\solafy-html.netlify.app\team-details.html
+Content Type: text/html
+
