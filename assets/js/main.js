@@ -538,6 +538,55 @@
       },
     });
 
+    // Who Will You Meet Carousel
+    var whoWillMeetSwiper = new Swiper(".who-will-meet-slider", {
+      slidesPerView: 1,
+      spaceBetween: 30,
+      loop: true,
+      pagination: {
+        el: ".who-will-meet-slider .swiper-pagination",
+        clickable: true,
+        type: 'bullets',
+        renderBullet: function(index, className) {
+          if (index % 5 === 0) {
+            return '<span class="' + className + '" data-index="' + index + '"></span>';
+          }
+          return '';
+        }
+      },
+      on: {
+        slideChange: function() {
+          // Update active dot based on current slide
+          var allBullets = document.querySelectorAll('.who-will-meet-slider .swiper-pagination-bullet');
+          var currentIndex = this.realIndex;
+          
+          allBullets.forEach(function(bullet, index) {
+            bullet.classList.remove('swiper-pagination-bullet-active');
+          });
+          
+          // Activate the appropriate bullet based on slide position
+          var activeBulletIndex = Math.floor(currentIndex / 5);
+          if (allBullets[activeBulletIndex]) {
+            allBullets[activeBulletIndex].classList.add('swiper-pagination-bullet-active');
+          }
+        }
+      },
+      navigation: {
+        nextEl: ".who-will-meet-slider .swiper-button-next",
+        prevEl: ".who-will-meet-slider .swiper-button-prev",
+      },
+      breakpoints: {
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 30,
+        },
+        1200: {
+          slidesPerView: 3,
+          spaceBetween: 30,
+        },
+      },
+    });
+
     /*-----------------------------------
            Wow Animation 
         -----------------------------------*/
