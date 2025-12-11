@@ -1,5 +1,4 @@
-﻿
-/*------------------------------------------------------------------
+﻿/*------------------------------------------------------------------
  SCSS FILES
 ------------------------------------------------------------------*/
 /* 1. Common */
@@ -37,7 +36,7 @@
   --border-color2: rgba(255, 255, 255, 0.10);
   --icon-font: "Font Awesome 6 Pro";
   --title-font: 'Urbanist', sans-serif;
-  --body2-font:  'Poppins', sans-serif;
+  --body2-font: 'Poppins', sans-serif;
   --title2-font: 'Poppins', sans-serif;
   --body-font: "Urbanist", sans-serif;
   --icon-font: "Font Awesome 6 Pro";
@@ -9008,7 +9007,7 @@ img {
   background: var(--theme-color1);
 }
 
-.wcu1-card__icon{
+.wcu1-card__icon {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10273,15 +10272,11 @@ img {
 }
 
 .blog2-card__content {
-  padding: 20px ;
+  padding: 20px;
   font-weight: 500;
 }
 
 .blog2-card__thumb {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 165px;
   position: relative;
 }
 
@@ -10290,7 +10285,7 @@ img {
   width: 100%;
 }
 
-#industry-focus img{
+#industry-focus img {
   height: 190px;
   object-fit: cover;
 }
@@ -12085,7 +12080,7 @@ img {
   z-index: 10;
 }
 
-.footer1-top__item img{
+.footer1-top__item img {
   width: 100%;
 }
 
@@ -12279,7 +12274,7 @@ img {
   gap: 6px;
 }
 
-.footer1-widget__nav h6{
+.footer1-widget__nav h6 {
   color: var(--white);
   font-family: "Poppins", sans-serif;
   font-size: 20px;
@@ -12298,7 +12293,7 @@ img {
   line-height: 28px;
 }
 
-.footer1-widget__nav-email-link{
+.footer1-widget__nav-email-link {
   cursor: pointer;
   border-bottom: dotted 0.5px var(--white);
   color: var(--white);
@@ -12466,19 +12461,28 @@ img {
   padding: 16px;
 }
 
-.who-sponsor-card-first img{
+.who-sponsor-card-first img {
   max-height: 400px;
 }
-.who-sponsor-card{
+
+.who-sponsor-card {
   border-radius: 10px;
   padding: 20px;
   border: 1px solid var(--green2);
 }
 
-.who-sponsor-card li{
+.who-sponsor-card li {
   gap: 10px;
   color: var(--black2);
   margin-bottom: 10px;
+}
+
+.media-partner .blog2-card__thumb,
+.sponsors-exhibitors .blog2-card__thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 165px;
 }
 
 /*====== Components End ======*/
