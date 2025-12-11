@@ -543,6 +543,52 @@
         -----------------------------------*/
     new WOW().init();
 
+    /*-----------------------------------
+           Counter Animation 
+        -----------------------------------*/
+    function animateCounter() {
+      const counterNumbers = document.querySelectorAll('.counter-number');
+      
+      const observerOptions = {
+        threshold: 0.5,
+        rootMargin: '0px'
+      };
+
+      const observer = new IntersectionObserver(function(entries) {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && !entry.target.classList.contains('counted')) {
+            const counter = entry.target;
+            const target = parseInt(counter.getAttribute('data-target'));
+            const suffix = counter.getAttribute('data-suffix') || '';
+            const duration = 1500; // Animation duration in ms
+            const steps = 60; // Number of steps
+            const stepDuration = duration / steps;
+            let currentStep = 0;
+
+            counter.classList.add('animated');
+
+            const timer = setInterval(() => {
+              currentStep++;
+              const progress = currentStep / steps;
+              const currentValue = Math.floor(target * progress);
+              
+              counter.textContent = currentValue + suffix;
+
+              if (currentStep >= steps) {
+                counter.textContent = target + suffix;
+                counter.classList.add('counted');
+                clearInterval(timer);
+              }
+            }, stepDuration);
+          }
+        });
+      }, observerOptions);
+
+      counterNumbers.forEach(counter => observer.observe(counter));
+    }
+
+    // Initialize counter animation when DOM is ready
+    animateCounter();
 
     }); 
   }); // End Document Ready Function
